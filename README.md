@@ -1,4 +1,4 @@
-# ![Real Estate Logo](https://via.placeholder.com/150)
+
 
 # **Real Estate Price Prediction**
 
